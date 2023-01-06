@@ -82,6 +82,6 @@ public class ArrayList1{
 	}//m
 
 	
-	}//c
+	}//cwer
 
 
