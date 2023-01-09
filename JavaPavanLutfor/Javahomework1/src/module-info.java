@@ -1,0 +1,2 @@
+module Javahomework1 {
+}
